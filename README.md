@@ -1,2 +1,2 @@
 # ssh-virtual-machine
-ssh login virtual machine in Mac
+ssh login remote virtual machine on Mac
